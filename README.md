@@ -27,7 +27,7 @@ todos-list-project
 Check out the live version here: [Todos List App](http://127.0.0.1:3002/index.html)
 
 🙋‍♂️ Author
-Your Name Anish rawat 
+Anish rawat 
 
 GitHub: Anishrawat123
 
