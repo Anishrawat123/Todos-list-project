@@ -136,4 +136,13 @@ span{
  background-color: black;
  color: #ffc470;
 }
+
+.mode{
+  margin: 9px;
+    padding: 8px;
+    height: 181px;
+    max-height: 50px;
+    width:90px;
+    top: 6px;
+}
     
